@@ -1,7 +1,7 @@
 # Easter Island ABM
 An Agent-Based Model that simulates the spatial and temporal dynamics of household agents on Easter Island and their interactions with a spatially explicit and realistic natural environment prior to European arrival.
 
-Associated publication: [[Steiglechner and Merico (2021)]](#0) (submitted)
+Associated publication: [[Steiglechner and Merico (2022)]](#0) 
 
 <p align="center">
   <img src="readme_pics/create_rull_comp_latex.png" width="600">
@@ -127,17 +127,17 @@ The code was tested with the following python packages:
 
 ## References and Further Reading
 <a id="0">[0]</a>
-Steiglechner P, Merico A (2021): Easter Island spatial population patterns in an Agent-Based Model of human-resource interaction (working title). Manuscript submitted for publication.
+Steiglechner, P., Merico, A. (2022). Spatio-Temporal Patterns of Deforestation, Settlement, and Land Use on Easter Island Prior to European Arrivals. In: Rull, V., Stevenson, C. (eds) The Prehistory of Rapa Nui (Easter Island). Developments in Paleoenvironmental Research, vol 22. Springer, Cham. https://doi.org/10.1007/978-3-030-91127-0_16
 
 <a id="1">[1]</a>
-Bahn P, Flenley J (2017) Easter Island, Earth Island: The enigmas of Rapa Nui, 4th edn. Rowman & Littlefield, Maryland, USA
+Bahn P., Flenley J. (2017). Easter Island, Earth Island: The enigmas of Rapa Nui, 4th edition. Rowman & Littlefield, Maryland, USA
 
 <a id="2">[2]</a>
-Puleston CO, Ladefoged TN, Haoa S, Chadwick OA, Vitousek PM, Stevenson CM
-(2017) Rain, sun, soil, and sweat: A consideration of population limits on Rapa Nui (Easter Island) before European contact. Frontiers in Ecology and Evolution DOI 10.3389/fevo.2017.00069
+Puleston C.O., Ladefoged T.N., Haoa S., Chadwick O.A., Vitousek P.M., Stevenson C.M.
+(2017). Rain, sun, soil, and sweat: A consideration of population limits on Rapa Nui (Easter Island) before European contact. Frontiers in Ecology and Evolution https://doi.org/10.3389/fevo.2017.00069
 
 <a id="3">[3]</a>
-Rull, V. (2020), The deforestation of Easter Island. Biol Rev, 95: 124-141. https://doi.org/10.1111/brv.12556
+Rull, V. (2020). The deforestation of Easter Island. Biol Rev, 95: 124-141. https://doi.org/10.1111/brv.12556
 
 # Author
 Peter Steiglechner, April 2021. [Orcid Link](https://orcid.org/0000-0002-1937-5983)
